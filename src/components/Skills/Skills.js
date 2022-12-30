@@ -30,17 +30,25 @@ const Skills = (props) => {
                     <i className="fa fa-check fa-2x"/>
                     {props.skills[5]}
                 </li>
-                <li className="list-group-item list-group-item-light">
+                <li className="list-group-item list-group-item-dark">
                     <i className="fa fa-check fa-2x"/>
                     {props.skills[6]}
                 </li>
-                <li className="list-group-item list-group-item-dark">
+                <li className="list-group-item list-group-item-primary">
                     <i className="fa fa-check fa-2x"/>
                     {props.skills[7]}
                 </li>
-                <li className="list-group-item list-group-item-primary">
+                <li className="list-group-item list-group-item-secondary">
                     <i className="fa fa-check fa-2x"/>
                     {props.skills[8]}
+                </li>
+                <li className="list-group-item list-group-item-success">
+                    <i className="fa fa-check fa-2x"/>
+                    {props.skills[9]}
+                </li>
+                <li className="list-group-item list-group-item-danger">
+                    <i className="fa fa-check fa-2x"/>
+                    {props.skills[10]}
                 </li>
             </ul>
         </div>
