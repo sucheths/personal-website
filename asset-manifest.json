@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.9d4e06fe.chunk.css",
+    "main.js": "/personal-website/static/js/main.59dcd790.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.59dcd790.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.6e0eea24.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.6e0eea24.js.map",
+    "static/css/2.5b5e1d1a.chunk.css": "/personal-website/static/css/2.5b5e1d1a.chunk.css",
+    "static/js/2.55f9b121.chunk.js": "/personal-website/static/js/2.55f9b121.chunk.js",
+    "static/js/2.55f9b121.chunk.js.map": "/personal-website/static/js/2.55f9b121.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.1b85486ff7e4a5c4aa8415b293a2547a.js": "/personal-website/precache-manifest.1b85486ff7e4a5c4aa8415b293a2547a.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/2.5b5e1d1a.chunk.css.map": "/personal-website/static/css/2.5b5e1d1a.chunk.css.map",
+    "static/css/main.9d4e06fe.chunk.css.map": "/personal-website/static/css/main.9d4e06fe.chunk.css.map",
+    "static/js/2.55f9b121.chunk.js.LICENSE.txt": "/personal-website/static/js/2.55f9b121.chunk.js.LICENSE.txt",
+    "static/media/Sucheth_Resume.pdf": "/personal-website/static/media/Sucheth_Resume.f6c1998b.pdf",
+    "static/media/badminton.jpg": "/personal-website/static/media/badminton.336641f2.jpg",
+    "static/media/font-awesome.min.css": "/personal-website/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/weeurls.jpg": "/personal-website/static/media/weeurls.c13d139b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e0eea24.js",
+    "static/css/2.5b5e1d1a.chunk.css",
+    "static/js/2.55f9b121.chunk.js",
+    "static/css/main.9d4e06fe.chunk.css",
+    "static/js/main.59dcd790.chunk.js"
+  ]
+}
