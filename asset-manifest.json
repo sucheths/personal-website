@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/sucheth/static/css/main.9d4e06fe.chunk.css",
-    "main.js": "/sucheth/static/js/main.bd5f62d6.chunk.js",
-    "main.js.map": "/sucheth/static/js/main.bd5f62d6.chunk.js.map",
-    "runtime-main.js": "/sucheth/static/js/runtime-main.ccdc1045.js",
-    "runtime-main.js.map": "/sucheth/static/js/runtime-main.ccdc1045.js.map",
-    "static/css/2.c4b199ec.chunk.css": "/sucheth/static/css/2.c4b199ec.chunk.css",
-    "static/js/2.55f9b121.chunk.js": "/sucheth/static/js/2.55f9b121.chunk.js",
-    "static/js/2.55f9b121.chunk.js.map": "/sucheth/static/js/2.55f9b121.chunk.js.map",
+    "main.css": "/sucheth/static/css/main.6f4742bb.chunk.css",
+    "main.js": "/sucheth/static/js/main.a201a3d6.chunk.js",
+    "main.js.map": "/sucheth/static/js/main.a201a3d6.chunk.js.map",
+    "runtime-main.js": "/sucheth/static/js/runtime-main.55504e53.js",
+    "runtime-main.js.map": "/sucheth/static/js/runtime-main.55504e53.js.map",
+    "static/css/2.280f028a.chunk.css": "/sucheth/static/css/2.280f028a.chunk.css",
+    "static/js/2.e9a6ddf9.chunk.js": "/sucheth/static/js/2.e9a6ddf9.chunk.js",
+    "static/js/2.e9a6ddf9.chunk.js.map": "/sucheth/static/js/2.e9a6ddf9.chunk.js.map",
     "index.html": "/sucheth/index.html",
-    "precache-manifest.68604316c107d69cae93bbe5552bf15a.js": "/sucheth/precache-manifest.68604316c107d69cae93bbe5552bf15a.js",
+    "precache-manifest.db4cb98f176d6c65ac4c74f42098cea5.js": "/sucheth/precache-manifest.db4cb98f176d6c65ac4c74f42098cea5.js",
     "service-worker.js": "/sucheth/service-worker.js",
-    "static/css/2.c4b199ec.chunk.css.map": "/sucheth/static/css/2.c4b199ec.chunk.css.map",
-    "static/css/main.9d4e06fe.chunk.css.map": "/sucheth/static/css/main.9d4e06fe.chunk.css.map",
-    "static/js/2.55f9b121.chunk.js.LICENSE.txt": "/sucheth/static/js/2.55f9b121.chunk.js.LICENSE.txt",
+    "static/css/2.280f028a.chunk.css.map": "/sucheth/static/css/2.280f028a.chunk.css.map",
+    "static/css/main.6f4742bb.chunk.css.map": "/sucheth/static/css/main.6f4742bb.chunk.css.map",
+    "static/js/2.e9a6ddf9.chunk.js.LICENSE": "/sucheth/static/js/2.e9a6ddf9.chunk.js.LICENSE",
     "static/media/Sucheth_Resume.pdf": "/sucheth/static/media/Sucheth_Resume.f6c1998b.pdf",
     "static/media/badminton.jpg": "/sucheth/static/media/badminton.336641f2.jpg",
     "static/media/font-awesome.min.css": "/sucheth/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/weeurls.jpg": "/sucheth/static/media/weeurls.c13d139b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ccdc1045.js",
-    "static/css/2.c4b199ec.chunk.css",
-    "static/js/2.55f9b121.chunk.js",
-    "static/css/main.9d4e06fe.chunk.css",
-    "static/js/main.bd5f62d6.chunk.js"
+    "static/js/runtime-main.55504e53.js",
+    "static/css/2.280f028a.chunk.css",
+    "static/js/2.e9a6ddf9.chunk.js",
+    "static/css/main.6f4742bb.chunk.css",
+    "static/js/main.a201a3d6.chunk.js"
   ]
 }
