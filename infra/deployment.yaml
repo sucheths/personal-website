@@ -1,0 +1,32 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: sucheths
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sucheths
+  template:
+    metadata:
+      labels:
+        app: sucheths
+    spec:
+      containers:
+        - name: sucheths
+          image: localhost:5000/sucheths
+          imagePullPolicy: Always
+      restartPolicy: Always
+
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: sucheths
+spec:
+  type: NodePort
+  ports:
+    - port: 80
+      protocol: TCP
+  selector:
+    app: sucheths

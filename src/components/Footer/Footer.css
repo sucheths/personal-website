@@ -1,0 +1,25 @@
+.Navigation-nav-brand > h3 > span {
+    color: #00a8e1;
+    font-weight: bold;
+}
+
+.margin-top-footer {
+    margin-top: 40px;
+}
+
+.padding-left-footer {
+    padding-left: 80px;
+}
+
+.footer-position {
+    padding-top: 35px;
+}
+
+.footer-font-color {
+    color: #F4F5F7;
+}
+
+
+.back-ground-color {
+    background-color: #424242;
+}

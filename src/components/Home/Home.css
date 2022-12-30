@@ -1,0 +1,67 @@
+.image-position {
+    margin-top: 7%;
+    margin-left: 35%;
+}
+
+.image-style {
+    display: block;
+    border-radius: 100%;
+    max-width: 300px;
+}
+
+.home-bg {
+    /*background-color: #F0F0F0;*/
+    padding-top: 10%;
+}
+
+.author-content {
+    margin-left: 40px;
+}
+
+.author-content-description {
+    margin-top: 15px;
+}
+
+.container-content {
+    margin-top: 7%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.first-container {
+    margin-bottom: 10%;
+}
+
+p {
+    font-family: "Consolas", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.1em;
+    line-height: 1.5;
+}
+
+hr {
+    max-width: 60px;
+    border-color: #f05f40;
+    border-width: 3px;
+}
+
+h5 {
+    color: dimgray;
+}
+
+.bg-color {
+    background-color: whitesmoke;
+}
+
+.container-content-white {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.container-content-white1 {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.awards-padding {
+    padding-bottom: 80px;
+}
