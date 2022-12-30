@@ -11,12 +11,12 @@ import Footer from "../Footer";
 
 const Home = () => {
 
-    const skills1 = ['Java 1.8', 'Spring Boot', 'Spring Framework', 'Spring WEB-MVC', 'Spring Rest',
-        'Spring Batch', 'Spring ORM', 'Spring Core', 'Spring JPA']
-    const skills2 = ['React JS', 'Bootstrap 4', 'MyBatis-3.0','Jersey JAX RS', 'Apache Solr', 'Apache Camel',
-        'Google Guice', 'Hibernate ORM', 'Apache Jmeter']
-    const skills3 = ['Git', 'Gradle', 'Maven', 'MySQL', 'Scrum',
-        'Shell & Perl Programming language', 'Apache Webserver & Tomcat', 'Glassfish3','Amazon Web Services']
+    const skills1 = ['Java 17', 'Spring Boot', 'Spring Framework', 'Spring WEB-MVC', 'Spring Rest',
+        'Spring Batch', 'Spring ORM', 'Spring Core', 'Spring JPA', 'Scala', 'Snowflake']
+    const skills2 = ['React JS', 'Bootstrap 4', 'Apache Kafka','Jersey JAX RS', 'Apache Solr', 'Apache Camel',
+        'Google Guice', 'Hibernate ORM', 'Apache Jmeter', 'Apache Spark', 'Apache Flink']
+    const skills3 = ['Python', 'Gradle', 'Maven', 'Kubernetes', 'Docker', 'NGINX', 'Flask',
+        'Events Streaming', 'Apache Webserver & Tomcat', 'Glassfish3','Amazon Web Services']
 
 
     return (<>
