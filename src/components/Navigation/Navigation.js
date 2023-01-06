@@ -24,12 +24,12 @@ const Navigation = () =>
                     <a className="nav-item nav-link" href="#profile">
                         <h6> PROFILE</h6>
                     </a>
-                    
-                    <a className="nav-item nav-link" href={Pdf} target = "_blank" rel="noopener noreferrer">
+
+                    {
+                   /*
+                   <a className="nav-item nav-link" href={Pdf} target = "_blank" rel="noopener noreferrer">
                         <h6>RESUME</h6>
                     </a>
-                    {
-                   /* 
                    <a className="nav-item nav-link" href="#project">
                         <h6> PROJECT</h6>
                     </a>
